@@ -20,10 +20,10 @@ The **Campus Event & Student Club Hub** is a centralized, web-based platform des
 
 | Name | Student ID | Academic Role | GitHub Profile |
 | :--- | :---: | :--- | :--- |
-| **Retaj Reda Elbaz** | `202400545` | Team Representative & Contributor | [@retaj-git](https://github.com/retaj-git) |
-| **Nada Mohammed Kulaib** | `202402221` | Member 1 - SRS Formatting & Sec 1, 2, 4.2 | [@gingererku](https://github.com/gingererku) |
-| **Shrouk Mohamed Mostafa** | `202402345` | Contributor | — |
-| **Salsabel AbdEl-Rahman** | `202401890` | Contributor | — |
+| **Retaj Reda Elbaz** | `202400545` |  [@retaj-git](https://github.com/retaj-git) |
+| **Nada Mohammed Kulaib** | `202402221` |  [@gingererku](https://github.com/gingererku) |
+| **Shrouk Mohamed Mostafa** | `202402345` |  — |
+| **Salsabel AbdEl-Rahman** | `202401890` | — |
 
 📧 **Representative Contact:** [202400545@zewailcity.edu.eg](mailto:202400545@zewailcity.edu.eg)
 
