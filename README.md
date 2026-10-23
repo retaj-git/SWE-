@@ -19,7 +19,7 @@ The **Campus Event & Student Club Hub** is a centralized, web-based platform des
 ## 👥 Team Members (Team ID: #)
 
 | Name | Student ID | GitHub Profile |
-| :--- | :---: | :--- | :--- |
+| :--- | :---: | :--- |
 | **Retaj Reda Elbaz** | `202400545` |  [@retaj-git](https://github.com/retaj-git) |
 | **Nada Mohammed Kulaib** | `202402221` |  [@gingererku](https://github.com/gingererku) |
 | **Shrouk Mohamed Mostafa** | `202402345` |  — |
